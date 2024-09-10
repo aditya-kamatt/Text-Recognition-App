@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045391112538",
+    "firebase_url": "https://newapp-913e0.firebaseio.com",
+    "project_id": "newapp-913e0",
+    "storage_bucket": "newapp-913e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045391112538:android:cd3b2b989173676f9fdb63",
+        "android_client_info": {
+          "package_name": "com.codewithatul.textrecognization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045391112538-jobfkjqe9ucm31k5agumnfh6o3v0ltu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpj5M-hT4R6tG5kzlntAihBW1S9dxMNng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045391112538-rrf2chmkmiq9mv7vr1ra4so19k6m9i8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
