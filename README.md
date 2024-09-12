@@ -4,4 +4,4 @@ This is an Android app that can read texts from an image and convert them into a
 
 ## Getting Started
 
-Install the .apk file on an Android device.
+Install the app-release.apk file on an Android device.
